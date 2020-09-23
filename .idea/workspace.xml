@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64bf672b-e379-4381-a1b4-b73798a59b49" name="Default Changelist" comment="Bug: Fixed css link">
-      <change afterPath="$PROJECT_DIR$/project/project1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="64bf672b-e379-4381-a1b4-b73798a59b49" name="Default Changelist" comment="Feature: Added project1.html, project2.html, and project/style.css">
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -55,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600818505788</updated>
-      <workItem from="1600818506915" duration="1717000" />
+      <workItem from="1600818506915" duration="2060000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit: Created basic outline of home page, about page, and added the css">
       <created>1600819328128</created>
@@ -78,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600819851232</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feature: Added project1.html, project2.html, and project/style.css">
+      <created>1600820544283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1600820544283</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,7 +91,8 @@
     <MESSAGE value="First Commit: Created basic outline of home page, about page, and added the css" />
     <MESSAGE value="Feature: Added project/index.html file and edited index.html" />
     <MESSAGE value="Bug: Fixed css link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bug: Fixed css link" />
+    <MESSAGE value="Feature: Added project1.html, project2.html, and project/style.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added project1.html, project2.html, and project/style.css" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="102" key="#Deployment" timestamp="1600819041121">
