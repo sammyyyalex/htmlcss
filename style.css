@@ -1,8 +1,12 @@
 html {
-    font-family: "Courier New", Courier, monospace;
+    font-family: Verdana, Geneva, sans-serif;
     font-size: 36px;
     line-height: 61px;
-
+    background: url(https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 #wrapper {
     width: 1208px;
@@ -12,14 +16,29 @@ html {
 footer {
     text-align: center;
 }
+
 h1 {
     font-size: 100%;
-    color:#fed6ef
+    color:#7d4b8a
 }
+
+
+body
+{
+    background-color: #fcfefc;
+    font-size: 100%;
+    margin-top:383px;
+    margin-left: 600px;
+    margin-right: 50px;
+}
+
 
 menu {
     padding-left: 0;
+
 }
+
+
 menu li {
     display: inline;
 }
