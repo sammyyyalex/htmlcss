@@ -22,7 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64bf672b-e379-4381-a1b4-b73798a59b49" name="Default Changelist" comment="Edit: Edited homepage CSS" />
+    <list default="true" id="64bf672b-e379-4381-a1b4-b73798a59b49" name="Default Changelist" comment="Edit: CSS changes">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600818505788</updated>
       <workItem from="1600818506915" duration="2626000" />
-      <workItem from="1601043159845" duration="2252000" />
+      <workItem from="1601043159845" duration="2606000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit: Created basic outline of home page, about page, and added the css">
       <created>1600819328128</created>
@@ -132,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601045481820</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Edit: CSS changes">
+      <created>1601046006413</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1601046006413</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +168,8 @@
     <MESSAGE value="Edit + Feature: Correct repo link and created README.MD" />
     <MESSAGE value="Edit: Attempt to edit CSS" />
     <MESSAGE value="Edit: Edited homepage CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit: Edited homepage CSS" />
+    <MESSAGE value="Edit: CSS changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit: CSS changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="102" key="#Deployment" timestamp="1600819041121">
@@ -170,10 +180,10 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="444" y="89" key="#SSH_Configurations/0.23.1440.827@0.23.1440.827" timestamp="1600819003448" />
-    <state x="460" y="176" key="Vcs.Push.Dialog.v2" timestamp="1600821043871">
+    <state x="460" y="176" key="Vcs.Push.Dialog.v2" timestamp="1601046056186">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="460" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1600821043871" />
+    <state x="460" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1601046056186" />
     <state x="525" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1601043244648">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
