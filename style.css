@@ -1,5 +1,5 @@
 html {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Courier New", Courier, monospace;
     font-size: 36px;
     line-height: 61px;
 
@@ -13,14 +13,10 @@ footer {
     text-align: center;
 }
 h1 {
-    font-size: 200%;
+    font-size: 100%;
+    color:#fed6ef
 }
-h2 {
-    font-size: 180%;
-}
-h3 {
-    font-size: 160%;
-}
+
 menu {
     padding-left: 0;
 }
