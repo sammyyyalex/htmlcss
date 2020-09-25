@@ -22,11 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64bf672b-e379-4381-a1b4-b73798a59b49" name="Default Changelist" comment="Edit: Attempt to edit CSS">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="64bf672b-e379-4381-a1b4-b73798a59b49" name="Default Changelist" comment="Edit: Edited homepage CSS" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600818505788</updated>
       <workItem from="1600818506915" duration="2626000" />
-      <workItem from="1601043159845" duration="2021000" />
+      <workItem from="1601043159845" duration="2252000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit: Created basic outline of home page, about page, and added the css">
       <created>1600819328128</created>
@@ -129,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601043673325</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Edit: Edited homepage CSS">
+      <created>1601045481820</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1601045481820</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +158,8 @@
     <MESSAGE value="Edit: Correct home links to project1.html and project2.html" />
     <MESSAGE value="Edit + Feature: Correct repo link and created README.MD" />
     <MESSAGE value="Edit: Attempt to edit CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit: Attempt to edit CSS" />
+    <MESSAGE value="Edit: Edited homepage CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit: Edited homepage CSS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="102" key="#Deployment" timestamp="1600819041121">
