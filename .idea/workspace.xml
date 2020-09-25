@@ -22,15 +22,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64bf672b-e379-4381-a1b4-b73798a59b49" name="Default Changelist" comment="Minor Edits">
+    <list default="true" id="64bf672b-e379-4381-a1b4-b73798a59b49" name="Default Changelist" comment="Edit: Started over with all of the CSS">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectIndex.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/project1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/project2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project1.html" beforeDir="false" afterPath="$PROJECT_DIR$/project1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project2.html" beforeDir="false" afterPath="$PROJECT_DIR$/project2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +40,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -67,6 +67,12 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +83,7 @@
       <updated>1600818505788</updated>
       <workItem from="1600818506915" duration="2626000" />
       <workItem from="1601043159845" duration="2733000" />
-      <workItem from="1601068619878" duration="299000" />
+      <workItem from="1601068619878" duration="1885000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit: Created basic outline of home page, about page, and added the css">
       <created>1600819328128</created>
@@ -156,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601046268435</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Edit: Started over with all of the CSS">
+      <created>1601068970748</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1601068970748</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +199,8 @@
     <MESSAGE value="Edit: Edited homepage CSS" />
     <MESSAGE value="Edit: CSS changes" />
     <MESSAGE value="Minor Edits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor Edits" />
+    <MESSAGE value="Edit: Started over with all of the CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit: Started over with all of the CSS" />
   </component>
   <component name="WindowStateProjectService">
     <state x="460" y="102" key="#Deployment" timestamp="1600819041121">
@@ -197,6 +211,10 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="444" y="89" key="#SSH_Configurations/0.23.1440.827@0.23.1440.827" timestamp="1600819003448" />
+    <state x="458" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601070299153">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="458" y="190" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.827@0.23.1440.827" timestamp="1601070299153" />
     <state x="460" y="176" key="Vcs.Push.Dialog.v2" timestamp="1601046056186">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
